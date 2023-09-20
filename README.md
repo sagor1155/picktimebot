@@ -1,2 +1,2 @@
 # picktimebot
-Slot finder for jefferson country driving license office
+Slot finder for jefferson county driving license office
